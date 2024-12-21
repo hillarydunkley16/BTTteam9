@@ -8,7 +8,12 @@ Challenge Summary: Make geospatial analysis more user friendly through the use o
 
 # Members
 Bintu Jalloh (bjalloh@smith.edu)
+
 Hillary Dunkley (hdunkley@smith.edu)
+
 Natalie Cheng (natcheng@bu.edu)
+
 Sachi Joshi (sachijoshi10@gmail.com)
+
 Vicky Xu (vickyxu2026@u.northwestern.edu)
+
